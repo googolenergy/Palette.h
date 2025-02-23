@@ -18,4 +18,4 @@ Palette.h is a lightweight C++ library designed to simplify printing text with m
        `0` --> Same line<br>
        `1` --> Next line<br>
 ***
-**Author: OrbitX.Space**
+Author: GoogolEnergy
